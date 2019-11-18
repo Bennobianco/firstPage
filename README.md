@@ -1,2 +1,2 @@
-# firstPage
-this is myfirst Website
+# page with Java Script
+show date an time
